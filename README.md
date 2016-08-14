@@ -4,3 +4,6 @@
 
 ### August 12, 2016
 - [Generating fantasy maps](http://mewo2.com/notes/terrain/) 
+
+### August 14, 2016
+- [React Native ScrollView animated header — Medium](https://medium.com/@janicduplessis/react-native-scrollview-animated-header-10a18cb9469e#.czp2k850h) 
