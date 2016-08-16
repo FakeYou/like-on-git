@@ -7,3 +7,6 @@
 
 ### August 14, 2016
 - [React Native ScrollView animated header — Medium](https://medium.com/@janicduplessis/react-native-scrollview-animated-header-10a18cb9469e#.czp2k850h) 
+
+### August 16, 2016
+- [Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/) 
