@@ -12,5 +12,5 @@
 - [Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/) 
 
 ### August 24, 2016
-- [Hello Color #b39b3e](http://jxnblk.com/hello-color/?c=b39b3e) 
-- [Palettable](http://www.palettable.io/332022) 
+- [Hello Color](http://jxnblk.com/hello-color/) 
+- [Palettable](http://www.palettable.io/) 
