@@ -17,3 +17,6 @@
 
 ### August 26, 2016
 - [BlokDust](https://blokdust.com/) 
+
+### September 6, 2016
+- [React Native: Things I wish I knew before starting out.](https://blog.jari.io/react-native/) 
